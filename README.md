@@ -3,7 +3,7 @@
 A modern, responsive portfolio website built with **Next.js 13**, **TypeScript**, and **Tailwind CSS**.  
 Designed with a clean UI, smooth animations, and dark/light mode support.
 
-🔗 Live Site: _[Add your deployed URL here]_
+🔗 Live Site: kamalyassin.com
 
 <img src="https://github.com/user-attachments/assets/704892f4-e71b-4f01-b04a-8cb3b6011f59"
      alt="Portfolio Preview"
