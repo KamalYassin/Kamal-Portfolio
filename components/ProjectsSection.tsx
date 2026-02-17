@@ -25,7 +25,7 @@ const projects = [
     name: "Digit Classification CNN",
     description:
       "A compact convolutional neural network designed to accurately classify handwritten digits.",
-    image: "/Ml_pic.png",
+    image: "/ML_pic.png",
     github: "https://github.com/KamalYassin/ML_Project",
     tech: ["Python", "TensorFlow", "NumPy", "Pandas"],
   },

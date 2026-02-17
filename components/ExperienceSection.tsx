@@ -7,7 +7,7 @@ const experiences = [
   {
     role: "AI Engineer",
     company: "Taskd.ai",
-    date: "2026 — Present",
+    date: "Jan 2026 — Present",
     logo: "/taskdai_logo.png",
     url: "https://taskd.ai/",
     summary:
@@ -15,9 +15,9 @@ const experiences = [
     tech: ["Python", "TypeScript", "LLMs", "Neuro-Symbolic AI"],
   },
   {
-    role: "Database Administrator",
+    role: "Database Administrator Intern",
     company: "Al Bayanat",
-    date: "2024",
+    date: "Jun — Aug 2024",
     logo: "/albayanat-logo.png",
     url: "https://al-bayanat.com/",
     summary:
