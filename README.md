@@ -85,7 +85,7 @@ If you want the contact form to send real emails:
 ```bash
 RESEND_API_KEY=your_resend_api_key
 ```
-Without this key, the site still runs — only email delivery will be disabled
+Without this key, the site still runs — only email delivery will be disabled.
 
 ---
 
