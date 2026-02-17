@@ -120,9 +120,4 @@ This project is open-source and available for personal use.
 
 ---
 
-## 👤 Author
 
-**Kamal Yassin**  
-Computer Science Student — AI & Software Engineering  
-GitHub: https://github.com/KamalYassin  
-LinkedIn: https://www.linkedin.com/in/your-link
