@@ -47,8 +47,8 @@ Designed with a clean UI, smooth animations, and dark/light mode support.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/KamalYassin/K-Portfolio.git
-cd K-Portfolio
+git clone https://github.com/KamalYassin/Kamal-Portfolio.git
+cd Kamal-Portfolio
 ```
 
 ### 2️⃣ Install Dependencies
@@ -57,19 +57,7 @@ cd K-Portfolio
 npm install
 ```
 
-### 3️⃣ Environment Variables
-
-Create a `.env.local` file in the root directory:
-
-```bash
-RESEND_API_KEY=your_resend_api_key
-```
-
-Used for handling contact form email delivery via Resend.
-
----
-
-### 4️⃣ Run Development Server
+### 3️⃣ Run Development Server
 
 ```bash
 npm run dev
@@ -88,6 +76,15 @@ npm start
 ```
 
 ---
+
+✉️ Optional: Enable Contact Form Email (Resend)
+If you want the contact form to send real emails:
+1. Create a .env.local file in the root directory.
+2. Add your Resend API key:
+
+```bash
+RESEND_API_KEY=your_resend_api_key
+```
 
 ## 📁 Project Structure
 
