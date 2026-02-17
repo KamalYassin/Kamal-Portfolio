@@ -5,11 +5,10 @@ Designed with a clean UI, smooth animations, and dark/light mode support.
 
 🔗 Live Site: _[Add your deployed URL here]_
 
-<p>
-  <img src="https://github.com/user-attachments/assets/704892f4-e71b-4f01-b04a-8cb3b6011f59" 
-       alt="Portfolio Preview" 
-       width="750"/>
-</p>
+<img src="https://github.com/user-attachments/assets/704892f4-e71b-4f01-b04a-8cb3b6011f59"
+     alt="Portfolio Preview"
+     width="750"/>
+
 
 
 ---
