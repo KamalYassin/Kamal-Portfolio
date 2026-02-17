@@ -17,7 +17,7 @@ const experiences = [
   {
     role: "Database Administrator Intern",
     company: "Al Bayanat",
-    date: "Jun — Aug 2024",
+    date: "June 2024 — Aug. 2024",
     logo: "/albayanat-logo.png",
     url: "https://al-bayanat.com/",
     summary:
