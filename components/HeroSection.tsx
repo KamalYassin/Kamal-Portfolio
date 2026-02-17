@@ -53,7 +53,7 @@ const HeroSection = () => {
             </Link>
 
             <a
-              href="/resume.pdf"
+              href="/Kamal's Resume.pdf"
               download="KamalYassin_Resume.pdf"
               className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
             >
