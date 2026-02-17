@@ -55,11 +55,11 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I'm driven by{" "}
+              I&apos;m driven by{" "}
               <span className="font-bold text-teal-500">curiosity</span> and the
-              desire to keep improving. Whether it’s trying a new project or
-              learning, I enjoy pushing myself forward. I’m excited to continue
-              developing my skills in AI and software engineering, and I’m
+              desire to keep improving. Whether it&apos;s trying a new project or
+              learning, I enjoy pushing myself forward. I&apos;m excited to continue
+              developing my skills in AI and software engineering, and I&apos;m
               always open to opportunities that help me grow personally and
               professionally.
             </p>
