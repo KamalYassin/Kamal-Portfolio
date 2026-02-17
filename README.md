@@ -75,7 +75,6 @@ npm run build
 npm start
 ```
 
----
 
 ## ✉️ Optional: Enable Contact Form Email (Resend)
 
