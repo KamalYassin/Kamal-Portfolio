@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="en">
       <head />
       <body className="dark:bg-stone-900">
-        <ThemeProvider enableSystem={true} attribute="class">
+        <ThemeProvider enableSystem={false} defaultTheme="light" attribute="class">
           <Navbar />
           {children}
           <Footer />
