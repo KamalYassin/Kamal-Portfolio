@@ -77,7 +77,8 @@ npm start
 
 ---
 
-✉️ Optional: Enable Contact Form Email (Resend)
+## ✉️ Optional: Enable Contact Form Email (Resend)
+
 If you want the contact form to send real emails:
 1. Create a .env.local file in the root directory.
 2. Add your Resend API key:
