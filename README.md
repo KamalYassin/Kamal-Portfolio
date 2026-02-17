@@ -5,6 +5,9 @@ Designed with a clean UI, smooth animations, and dark/light mode support.
 
 🔗 Live Site: _[Add your deployed URL here]_
 
+<img width="1280" height="655" alt="Screenshot 2026-02-16 at 10 43 54 PM" src="https://github.com/user-attachments/assets/704892f4-e71b-4f01-b04a-8cb3b6011f59" />
+
+
 ---
 
 ## ✨ Features
