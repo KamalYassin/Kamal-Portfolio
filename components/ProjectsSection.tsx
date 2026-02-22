@@ -88,13 +88,15 @@ const ProjectsSection = () => {
                     </div>
                   )}
 
-                  {/* GITHUB ICON */}
+                  {/* GITHUB LINK */}
                   <div className="flex flex-row align-bottom space-x-4 mt-2">
-                    <Link href={project.github} target="_blank">
-                      <BsGithub
-                        size={30}
-                        className="hover:-translate-y-1 transition-transform cursor-pointer"
-                      />
+                    <Link
+                      href={project.github}
+                      target="_blank"
+                      className="inline-flex items-center gap-2 px-4 py-2 rounded-lg border border-neutral-300 dark:border-neutral-700 hover:bg-teal-600 hover:text-white hover:border-teal-600 hover:-translate-y-1 transition cursor-pointer"
+                    >
+                      <BsGithub size={20} />
+                      <span className="text-sm font-medium">Source Code</span>
                     </Link>
                   </div>
                 </div>

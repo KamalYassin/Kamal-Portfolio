@@ -3,7 +3,7 @@ import React from "react"
 import Image from "next/image"
 import { Link } from "react-scroll/modules"
 import { HiArrowDown } from "react-icons/hi"
-import { AiOutlineGithub, AiOutlineLinkedin } from "react-icons/ai"
+import { BsGithub, BsLinkedin } from "react-icons/bs"
 
 const HeroSection = () => {
   return (
@@ -69,7 +69,7 @@ const HeroSection = () => {
                 Connect with me
               </span>
 
-              {/* Small square icons */}
+              {/* Social icons with labels */}
               <div className="flex gap-5">
                 {/* GitHub */}
                 <a
@@ -77,9 +77,10 @@ const HeroSection = () => {
                   target="_blank"
                   rel="noreferrer"
                   aria-label="Visit my GitHub profile"
-                  className="flex h-16 w-16 items-center justify-center rounded-xl border border-neutral-300 bg-white/70 shadow-sm hover:bg-teal-600 hover:text-white hover:-translate-y-1 transition dark:bg-stone-900/70 dark:border-stone-700"
+                  className="flex h-12 items-center gap-2 px-4 rounded-xl border border-neutral-300 bg-white/70 shadow-sm hover:bg-teal-600 hover:text-white hover:-translate-y-1 transition dark:bg-stone-900/70 dark:border-stone-700"
                 >
-                  <AiOutlineGithub size={24} />
+                  <BsGithub size={20} />
+                  <span className="text-sm font-medium">GitHub</span>
                 </a>
 
                 {/* LinkedIn */}
@@ -88,9 +89,10 @@ const HeroSection = () => {
                   target="_blank"
                   rel="noreferrer"
                   aria-label="Visit my LinkedIn profile"
-                  className="flex h-16 w-16 items-center justify-center rounded-xl border border-neutral-300 bg-white/70 shadow-sm hover:bg-teal-600 hover:text-white hover:-translate-y-1 transition dark:bg-stone-900/70 dark:border-stone-700"
+                  className="flex h-12 items-center gap-2 px-4 rounded-xl border border-neutral-300 bg-white/70 shadow-sm hover:bg-teal-600 hover:text-white hover:-translate-y-1 transition dark:bg-stone-900/70 dark:border-stone-700"
                 >
-                  <AiOutlineLinkedin size={24} />
+                  <BsLinkedin size={20} />
+                  <span className="text-sm font-medium">LinkedIn</span>
                 </a>
               </div>
             </div>
